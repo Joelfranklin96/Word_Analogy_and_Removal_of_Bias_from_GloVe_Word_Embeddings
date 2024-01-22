@@ -1,1 +1,1 @@
-# Word_Analogy_and_Removal_of_Bias_from_GloVe_Word_Embeddings
+# Word Analogy and Removal of Bias from GloVe Word Embeddings
